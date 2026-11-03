@@ -7,7 +7,7 @@ English | [简体中文](README-CN.md)
 ### Composer
 
 ```bash
-composer require antchain/eraprod
+composer require antchain/ERAPROD
 ```
 
 ## Issues

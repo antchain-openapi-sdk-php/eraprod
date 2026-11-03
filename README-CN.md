@@ -9,7 +9,7 @@
 ### Composer
 
 ```bash
-composer require antchain/eraprod
+composer require antchain/ERAPROD
 ```
 
 ## 问题
